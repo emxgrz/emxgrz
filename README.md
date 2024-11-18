@@ -4,21 +4,21 @@
 
 
 
-### 🛠️ About Me
-- 🎓 Currently diving deep into Python.
+### 🛠️ About me
+- 🎓 Currently diving deep into Python & Typescript.
 - 🌱 Passionate about open-source contributions and collaborative projects.
 - ⚡ Constantly working to enhance my skills in web development, mobile apps, and system design.
 
 ---
 
 
-### 🚀 Featured Projects
+### 🚀 Featured projects
 - 🌟 [**Komune**](https://github.com/emxgrz/komune_client): A brief description of this amazing project.
 - 🔧 [**HeroZone**](https://github.com/emxgrz/HeroZone_frontend): A short overview of this innovative project.
 
 ---
 
-### 🤝 Connect with Me!
+### 🤝 Connect with me!
 <div align="center">
   <a href="https://www.linkedin.com/in/emma-mtz/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
@@ -30,7 +30,7 @@
 
 ---
 
-### ⚙️ Technologies and Tools
+### ⚙️ Technologies and tools
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
