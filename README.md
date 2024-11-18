@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Emma!
 
 ### 💻 Full-stack Developer | 🚀 Technology Enthusiast | 🌎 Lifelong Learner
 
----
+
 
 ### 🛠️ About Me
 - 🎓 Currently diving deep into Python.
