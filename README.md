@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emma!
 
-### 💻 Full-stack Developer | 🚀 Technology Enthusiast | 🌎 Lifelong Learner
+### 💻 Full-stack developer | 🚀 Technology enthusiast | 🌎 Lifelong learner
 
 
 
