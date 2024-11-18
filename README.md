@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Emma Martínez!
+# 👋 Hi, I'm Emma!
 
 ### 💻 Full-stack Developer | 🚀 Technology Enthusiast | 🌎 Lifelong Learner
 
